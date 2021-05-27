@@ -1,1 +1,2 @@
-# Bhavika-sQuiz
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
